@@ -1,6 +1,6 @@
 # Supplementary Data and Figures
 
-This repository contains the data, source code and figures used in figures of an article. 
+This repository contains the data and source code used for creating figures of an article. 
 
 * Data files are located in the 'data'-directory  
 * The pdf-figures are in 'exported_images'  
